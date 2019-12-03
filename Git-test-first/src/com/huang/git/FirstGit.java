@@ -8,4 +8,11 @@ public class FirstGit {
         System.out.println("使用本地版本库修改");
         System.out.println("自动将文件加入到暂存区");
     }
+
+
+    public void testGit(){
+        int i = 1;
+        i += 28;
+        System.out.println(i);
+    }
 }
